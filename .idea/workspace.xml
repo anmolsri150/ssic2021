@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0776e7f0-3405-4b43-b423-c3d71c0e27fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about-jaipur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssic2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-jaipur.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-jaipur.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssic2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/ssic2019.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>countdown</find>
-      <find>anim-icons</find>
-      <find>#ec167f</find>
-      <find>Book</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>#ffcc00</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581074292028</updated>
       <workItem from="1581074304111" duration="2392000" />
-      <workItem from="1581102101022" duration="2365000" />
+      <workItem from="1581102101022" duration="3607000" />
     </task>
     <servers />
   </component>
