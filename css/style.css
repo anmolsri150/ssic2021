@@ -687,7 +687,7 @@ color:#ffffff;
 	width:100%;
 	height:100%;
 	z-index:999999;
-	background-color: #1e6cc7;
+	background-color: #ffcc00;
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:100px;
@@ -739,7 +739,7 @@ color:#ffffff;
     width: 40px;
     height: 120px;
     opacity: 0;
-    background-color: #1e6cc7;
+    background-color: #ffcc00;
     border: 5px solid white;
     -webkit-transform-origin: bottom left;
     transform-origin: bottom left;
@@ -872,7 +872,7 @@ color:#ffffff;
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #1e6cc7;
+    background: #ffcc00;
     background-image: radial-gradient(rgba(255, 255, 255, 0.5) 30%, transparent 0);
     background-size: 10px 10px;
     background-position: 0 -2.5px;
@@ -884,6 +884,15 @@ color:#ffffff;
 .shelf:after {
     top: 400%;
     left: 7.5%;
+}
+
+
+.shelf-logo {
+	width: 212px;
+	height: 312px;
+	margin: 0 auto;
+	margin-top: 50px;
+	position: relative;
 }
 
 @-webkit-keyframes move {
