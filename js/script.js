@@ -1,15 +1,15 @@
 (function($) {
-	
+
 	"use strict";
-	
-	
+
+
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
-			$('.preloader').delay(200).fadeOut(500);
+			$('.preloader').delay(450).fadeOut(1200);
 		}
 	}
-	
+
 	//Update Header Style and Scroll to Top
 	function headerStyle() {
 		if($('.main-header').length){
@@ -25,18 +25,18 @@
 			}
 		}
 	}
-	
+
 	headerStyle();
-	
+
 	//Submenu Dropdown Toggle
 	if($('.main-header li.dropdown ul').length){
 		$('.main-header .navigation li.dropdown').append('<div class="dropdown-btn"><span class="fa fa-angle-down"></span></div>');
-		
+
 	}
 
 	//Mobile Nav Hide Show
 	if($('.mobile-menu').length){
-		
+
 		var mobileMenuContent = $('.main-header .nav-outer .main-menu .navigation').html();
 		$('.mobile-menu').append('<div class="close-btn"><span class="icon flaticon-cancel-music"></span></div>');
 		$('.mobile-menu .navigation').append(mobileMenuContent);
@@ -79,7 +79,7 @@
 		});
 	}
 
-		// Banner Carousel / Owl Carousel 
+		// Banner Carousel / Owl Carousel
 	if ($('.banner-carousel').length) {
 		$('.banner-carousel').owlCarousel({
 			animateOut: 'fadeOut',
@@ -103,7 +103,7 @@
 					items:1
 				},
 			}
-		}); 
+		});
 	}
 
 	// Single Item Carousel
@@ -126,7 +126,7 @@
 					items:1
 				}
 			}
-		});    		
+		});
 	}
 
 	// Gallery  Carousel
@@ -155,7 +155,7 @@
 					items:5
 				}
 			}
-		});    		
+		});
 	}
 
 	//Clients Carousel
@@ -185,7 +185,7 @@
 					items:5
 				}
 			}
-		});    		
+		});
 	}
 
 	//Parallax Scene for Icons
@@ -213,11 +213,11 @@
 	//Masonary
 	function enableMasonry() {
 		if($('.masonry-items-container').length){
-	
+
 			var winDow = $(window);
 			// Needed variables
 			var $container=$('.masonry-items-container');
-	
+
 			$container.isotope({
 				itemSelector: '.masonry-item',
 				 masonry: {
@@ -228,10 +228,10 @@
 					easing:'linear'
 				}
 			});
-	
+
 			winDow.on('resize', function(){
 
-				$container.isotope({ 
+				$container.isotope({
 					itemSelector: '.masonry-item',
 					animationOptions: {
 						duration: 500,
@@ -242,17 +242,17 @@
 			});
 		}
 	}
-	
+
 	enableMasonry();
-	
+
 	//Fact Counter + Text Count
 	if($('.count-box').length){
 		$('.count-box').appear(function(){
-	
+
 			var $t = $(this),
 				n = $t.find(".count-text").attr("data-stop"),
 				r = parseInt($t.find(".count-text").attr("data-speed"), 10);
-				
+
 			if (!$t.hasClass("counted")) {
 				$t.addClass("counted");
 				$({
@@ -270,16 +270,16 @@
 					}
 				});
 			}
-			
+
 		},{accY: 0});
 	}
-	
+
 	//Tabs Box
 	if($('.tabs-box').length){
 		$('.tabs-box .tab-buttons .tab-btn').on('click', function(e) {
 			e.preventDefault();
 			var target = $($(this).attr('data-tab'));
-			
+
 			if ($(target).is(':visible')){
 				return false;
 			}else{
@@ -296,14 +296,14 @@
 	//Accordion Box
 	if($('.accordion-box').length){
 		$(".accordion-box").on('click', '.acc-btn', function() {
-			
+
 			var outerBox = $(this).parents('.accordion-box');
 			var target = $(this).parents('.accordion');
-			
+
 			if($(this).hasClass('active')!==true){
 				$(outerBox).find('.accordion .acc-btn').removeClass('active ');
 			}
-			
+
 			if ($(this).next('.acc-content').is(':visible')){
 				return false;
 			}else{
@@ -311,13 +311,13 @@
 				$(outerBox).children('.accordion').removeClass('active-block');
 				$(outerBox).find('.accordion').children('.acc-content').slideUp(300);
 				target.addClass('active-block');
-				$(this).next('.acc-content').slideDown(300);	
+				$(this).next('.acc-content').slideDown(300);
 			}
-		});	
+		});
 	}
 
 	//Event Countdown Timer
-	if($('.time-countdown').length){  
+	if($('.time-countdown').length){
 		$('.time-countdown').each(function() {
 		var $this = $(this), finalDate = $(this).data('countdown');
 		$this.countdown(finalDate, function(event) {
@@ -369,7 +369,7 @@
 			}
 		});
 	}
-	
+
 	// Scroll to a Specific Div
 	if($('.scroll-to-target').length){
 		$(".scroll-to-target").on('click', function() {
@@ -378,11 +378,11 @@
 		   $('html, body').animate({
 			   scrollTop: $(target).offset().top
 			 }, 1500);
-	
+
 		});
 	}
-	
-	
+
+
 	// Elements Animation
 	if($('.wow').length){
 		var wow = new WOW(
@@ -401,18 +401,18 @@
 /* ==========================================================================
    When document is Scrollig, do
    ========================================================================== */
-	
+
 	$(window).on('scroll', function() {
 		headerStyle();
 	});
-	
+
 /* ==========================================================================
    When document is loading, do
    ========================================================================== */
-	
+
 	$(window).on('load', function() {
 		handlePreloader();
 		enableMasonry();
-	});	
+	});
 
 })(window.jQuery);
