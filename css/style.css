@@ -130,7 +130,9 @@ body {
 	-moz-font-smoothing: antialiased;
 	font-family: 'Poppins', sans-serif;
 }
-
+#c4988 {
+	text-align: justify;
+}
 
   table {
 	border: 1px solid #ccc;
