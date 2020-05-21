@@ -5,21 +5,21 @@
 <meta charset="utf-8">
 <title>SSIC 2021 | Manipal University</title>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link href="https://thessic.com/css/style.css" rel="stylesheet">
+<link href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
+<link href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
     <style>
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
@@ -66,7 +66,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -78,7 +78,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
   <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/hawa2.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/hawa2.jpg);">
         <div class="auto-container">
             <h1>"Blushing bride draped in pink, dancing in our dreams while the peacocks sing"</h1>
             <ul class="bread-crumb clearfix">
@@ -113,7 +113,7 @@
                 <!-- Image Column -->
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="image-box">
-                        <figure class="image wow fadeIn"><img src="images/background/abt.jpg" alt=""></figure>
+                        <figure class="image wow fadeIn"><img src="https://thessic.com/images/background/abt.jpg" alt=""></figure>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
     <!--End About Section -->
 
     <!-- Fun Fact Section -->
-<!--    <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);">-->
+<!--    <section class="fun-fact-section style-two" style="background-image: url(https://thessic.com/images/background/9.jpg);">-->
 <!--        <div class="auto-container">-->
 <!--            <div class="fact-counter">-->
 <!--                <div class="row clearfix">-->
@@ -238,7 +238,7 @@
     <!--End Features Section -->
 
 <!--    &lt;!&ndash; Call to action &ndash;&gt;-->
-<!--    <section class="call-to-action" style="background-image: url(images/background/11.jpg);">-->
+<!--    <section class="call-to-action" style="background-image: url(https://thessic.com/images/background/11.jpg);">-->
 <!--        <div class="auto-container">-->
 <!--            <div class="content-box">-->
 <!--                <div class="text">WE’RE A LEADING MEETUP COMPANY</div>-->
@@ -304,7 +304,7 @@
 <!--                    &lt;!&ndash;Map Outer&ndash;&gt;-->
 <!--                    <div class="map-outer">-->
 <!--                        &lt;!&ndash;Map Canvas&ndash;&gt;-->
-<!--                        <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="images/icons/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">-->
+<!--                        <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="https://thessic.com/images/icons/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
@@ -326,8 +326,8 @@
 <!--                        </div>-->
 <!--                        <div class="text-box">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>-->
 <!--                        <div class="link-box">-->
-<!--                            <a href="#"><img src="images/icons/app-store.png" alt=""></a>-->
-<!--                            <a href="#"><img src="images/icons/google-play.png" alt=""></a>-->
+<!--                            <a href="#"><img src="https://thessic.com/images/icons/app-store.png" alt=""></a>-->
+<!--                            <a href="#"><img src="https://thessic.com/images/icons/google-play.png" alt=""></a>-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
@@ -336,7 +336,7 @@
 <!--                <div class="image-column col-lg-7 col-md-12 col-sm-12">-->
 <!--                    <div class="inner-column">-->
 <!--                        <div class="image-box">-->
-<!--                            <figure class="image wow fadeInRight"><img src="images/resource/app-mockup.png" alt=""></figure>-->
+<!--                            <figure class="image wow fadeInRight"><img src="https://thessic.com/images/resource/app-mockup.png" alt=""></figure>-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
@@ -386,130 +386,130 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/1.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/1.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/1.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/1.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/2.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/2.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/2.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/2.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/3.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/3.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/3.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/3.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/4.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/4.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/4.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/4.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/5.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/5.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/5.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/5.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/6.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/6.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/6.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/6.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/7.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/7.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/7.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/7.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/8.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/8.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/8.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/8.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/9.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/9.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/9.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/9.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/10.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/10.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/10.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/10.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/11.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/11.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/11.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/11.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/12.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/12.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/12.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/12.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/13.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/13.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/13.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/13.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/14.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/14.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/14.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/14.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/cover.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/cover.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/cover.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/cover.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/15.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/15.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/15.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/15.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/18.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/18.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/18.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/18.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/19.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/19.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/19.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/19.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/20.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/20.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/20.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/20.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/21.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/21.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/21.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/21.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
@@ -518,32 +518,32 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/22.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/22.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/22.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/22.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/23.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/23.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/23.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/23.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/24.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/24.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/24.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/24.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/25.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/25.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/25.jpg" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/25.jpg" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/aboutJaipur/25.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/aboutJaipur/25.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/aboutJaipur/25.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/aboutJaipur/25.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
             </div>
@@ -559,20 +559,20 @@
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-<script src="js/jquery.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/script.js"></script>
+<script src="https://thessic.com/js/jquery.js"></script>
+<script src="https://thessic.com/js/popper.min.js"></script>
+<script src="https://thessic.com/js/bootstrap.min.js"></script>
+<script src="https://thessic.com/js/jquery-ui.js"></script>
+<script src="https://thessic.com/js/jquery.fancybox.js"></script>
+<script src="https://thessic.com/js/appear.js"></script>
+<script src="https://thessic.com/js/owl.js"></script>
+<script src="https://thessic.com/js/wow.js"></script>
+<script src="https://thessic.com/js/script.js"></script>
 <!-- Color Setting -->
-<script src="js/color-settings.js"></script>
+<script src="https://thessic.com/js/color-settings.js"></script>
 <!--Google Map APi Key-->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPH8h1UpcK01BdcvoZeOzq-_wJqRxN1Pc"></script>
-<script src="js/map-script.js"></script>
+<script src="https://thessic.com/js/map-script.js"></script>
 <!--End Google Map APi-->>
 </body>
  

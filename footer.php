@@ -10,7 +10,7 @@
                         <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
                             <div class="footer-widget about-widget">
                                 <div class="logo">
-                                    <a href="index.html"><img src="images/logo_image-min.png" alt=""></a>
+                                    <a href="index.html"><img src="https://thessic.com/images/logo_image-min.png" alt=""></a>
                                 </div>
                                 <div class="text">
                                     <p>Smart Systems and Intelligent Computing is an international forum for researchers, engineers, academicians as well as industrial professionals from all over the world</p>
@@ -79,27 +79,27 @@
                                 <div class="widget-content">
                                     <div class="outer clearfix">
                                         <figure class="image">
-                                            <a href="images/ssic2017/1.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/1.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/1.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/1.png" alt=""></a>
                                         </figure>
 
                                         <figure class="image">
-                                            <a href="images/ssic2017/2.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/2.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/2.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/2.png" alt=""></a>
                                         </figure>
 
                                         <figure class="image">
-                                            <a href="images/ssic2017/3.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/3.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/3.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/3.png" alt=""></a>
                                         </figure>
 
                                         <figure class="image">
-                                            <a href="images/ssic2017/4.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/4.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/4.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/4.png" alt=""></a>
                                         </figure>
 
                                         <figure class="image">
-                                            <a href="images/ssic2017/5.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/5.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/5.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/5.png" alt=""></a>
                                         </figure>
 
                                         <figure class="image">
-                                            <a href="images/ssic2017/6.png" class="lightbox-image" title="Image Title Here"><img src="images/ssic2017/6.png" alt=""></a>
+                                            <a href="https://thessic.com/images/ssic2017/6.png" class="lightbox-image" title="Image Title Here"><img src="https://thessic.com/images/ssic2017/6.png" alt=""></a>
 
 
 

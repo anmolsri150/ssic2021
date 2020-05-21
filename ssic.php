@@ -4,21 +4,21 @@
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link href="https://thessic.com/css/style.css" rel="stylesheet">
+<link href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
+<link href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
 </head>
 
@@ -68,7 +68,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -80,7 +80,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
             <h1>SSIC 2017</h1>
             <ul class="bread-crumb clearfix">
@@ -116,7 +116,7 @@
                 <!-- Image Column -->
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="image-box">
-                        <figure class="image wow fadeIn"><img src="images/ssic2017/cover.png" alt=""></figure>
+                        <figure class="image wow fadeIn"><img src="https://thessic.com/images/ssic2017/cover.png" alt=""></figure>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <p class="p1"><font size="3"><span class="s1">The conference consisted following events specific to the <strong>Smart Systems, Innovations and Computing.</strong></span></font></p>
-                    <a href="http://www.springer.com/in/book/9789811058271"><img src="images/sist79.png" style="max-width:470px; max-height:210px;" /></a>
+                    <a href="http://www.springer.com/in/book/9789811058271"><img src="https://thessic.com/images/sist79.png" style="max-width:470px; max-height:210px;" /></a>
 
                     <h5 style="color:red;">Proceedings of First International Conference on Smart System, Innovations and Computing (SSIC 2017), Jaipur, India</h5>
 
@@ -388,7 +388,7 @@
     <!--End About Section -->
 
     <!-- Fun Fact Section -->
-    <section class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);">
+    <section class="fun-fact-section style-two" style="background-image: url(https://thessic.com/images/background/9.jpg);">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title" style="color:#fff;">PREVIOUS STATISTICS</span>
@@ -508,7 +508,7 @@
 <!--    &lt;!&ndash;End Features Section &ndash;&gt;-->
 
 <!--    &lt;!&ndash; Call to action &ndash;&gt;-->
-<!--    <section class="call-to-action" style="background-image: url(images/background/11.jpg);">-->
+<!--    <section class="call-to-action" style="background-image: url(https://thessic.com/images/background/11.jpg);">-->
 <!--        <div class="auto-container">-->
 <!--            <div class="content-box">-->
 <!--                <div class="text">WE’RE A LEADING MEETUP COMPANY</div>-->
@@ -574,7 +574,7 @@
 <!--                    &lt;!&ndash;Map Outer&ndash;&gt;-->
 <!--                    <div class="map-outer">-->
 <!--                        &lt;!&ndash;Map Canvas&ndash;&gt;-->
-<!--                        <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="images/icons/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">-->
+<!--                        <div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="https://thessic.com/images/icons/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
@@ -597,48 +597,48 @@
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/1.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/1.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/1.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/1.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/2.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/2.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/2.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/2.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/3.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/3.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/3.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/3.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/4.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/4.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/4.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/4.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/5.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/5.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/5.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/5.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
 
                 <!-- Gallery Item -->
                 <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                     <div class="image-box">
-                        <figure class="image"><img src="images/ssic2017/6.png" alt=""></figure>
-                        <div class="overlay-box"><a href="images/ssic2017/6.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        <figure class="image"><img src="https://thessic.com/images/ssic2017/6.png" alt=""></figure>
+                        <div class="overlay-box"><a href="https://thessic.com/images/ssic2017/6.png" class="lightbox-image" data-fancybox='gallery'><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                     </div>
                 </div>
             </div>
@@ -652,7 +652,7 @@
 
 
     <!-- Call to action -->
-    <section id="spring" class="fun-fact-section style-two" style="background-image: url(images/background/9.jpg);margin-bottom: 70px;">
+    <section id="spring" class="fun-fact-section style-two" style="background-image: url(https://thessic.com/images/background/9.jpg);margin-bottom: 70px;">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title" style="color:#fff;">PROCEEDINGS of SSIC 2017, published by</span>
@@ -704,20 +704,20 @@
 
         <!--Scroll to top-->
         <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-        <script src="js/jquery.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery-ui.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/script.js"></script>
+        <script src="https://thessic.com/js/jquery.js"></script>
+        <script src="https://thessic.com/js/popper.min.js"></script>
+        <script src="https://thessic.com/js/bootstrap.min.js"></script>
+        <script src="https://thessic.com/js/jquery-ui.js"></script>
+        <script src="https://thessic.com/js/jquery.fancybox.js"></script>
+        <script src="https://thessic.com/js/appear.js"></script>
+        <script src="https://thessic.com/js/owl.js"></script>
+        <script src="https://thessic.com/js/wow.js"></script>
+        <script src="https://thessic.com/js/script.js"></script>
         <!-- Color Setting -->
-        <script src="js/color-settings.js"></script>
+        <script src="https://thessic.com/js/color-settings.js"></script>
         <!--Google Map APi Key-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPH8h1UpcK01BdcvoZeOzq-_wJqRxN1Pc"></script>
-        <script src="js/map-script.js"></script>
+        <script src="https://thessic.com/js/map-script.js"></script>
         <!--End Google Map APi-->>
         <!-- End Footer -->
 

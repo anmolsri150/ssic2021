@@ -5,21 +5,21 @@
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
 <!-- Stylesheets -->
-<link target="__blank" href="css/bootstrap.css" rel="stylesheet">
-<link target="__blank" href="css/style.css" rel="stylesheet">
-<link target="__blank" href="css/responsive.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/style.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link target="__blank" href="css/color-switcher-design.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" target="__blank" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" target="__blank" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" target="__blank" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" target="__blank" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
     <style>
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
@@ -69,7 +69,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -81,7 +81,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
             <h1>Organisers</h1>
             <ul class="bread-crumb clearfix">
@@ -114,7 +114,7 @@
                             <span class="designation">President, Manipal University <Jaipur></Jaipur></span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/gkprabhu.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/gkprabhu.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -151,7 +151,7 @@
                             <span class="designation">Pro-Vice Chancellor, Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/NN Sharma.png" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/NN Sharma.png" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -169,7 +169,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/Dr%20Jagannath%20K.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/Dr%20Jagannath%20K.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -190,7 +190,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/Ravi%20Shankar%20Kamath1.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/Ravi%20Shankar%20Kamath1.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -226,7 +226,7 @@
                             <span class="designation">Iowa State University, USA</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/arunsomani.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/arunsomani.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -244,7 +244,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/Rajveer-Singh.png" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/Rajveer-Singh.png" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -282,7 +282,7 @@
                             <span class="designation">University of Technology Sydney Australia</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/pritadarsinanda.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/pritadarsinanda.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -300,7 +300,7 @@
                             <span class="designation">Deakin University Australia</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/robindoss.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/robindoss.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -318,7 +318,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/sumit-srivastava.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/sumit-srivastava.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -336,7 +336,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/pankajvyas.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/pankajvyas.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -373,7 +373,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/vijaydhaka.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/vijaydhaka.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -391,7 +391,7 @@
                             <span class="designation">MNIT Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/arkamazumdar.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/arkamazumdar.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -428,7 +428,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/ankitmundra.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/ankitmundra.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -465,7 +465,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/Vivek%20Verma.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/Vivek%20Verma.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -483,7 +483,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/rohit-gupta.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/rohit-gupta.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -519,7 +519,7 @@
                             <span class="designation">Head of Department of Mechanical Engineering at South Valley University-Qena</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/noubyghazly.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/noubyghazly.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -538,7 +538,7 @@
                             <span class="designation">Senior Lecturer, Computer Information Systems at University of Malta</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/lalitgarg.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/lalitgarg.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -554,7 +554,7 @@
                             <span class="designation">Assitant Professor,Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/manjit.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/manjit.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -570,7 +570,7 @@
                             <span class="designation">Associate Professor in the Systems Research Institute, Polish Academy of Sciences</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/poland.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/poland.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -607,7 +607,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/Dilbag%20Singh.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/Dilbag%20Singh.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -647,7 +647,7 @@
                             <span class="designation">Accenture Innovations</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/subhajitbhattacharya.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/subhajitbhattacharya.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -665,7 +665,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/pradeeptiwari.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/pradeeptiwari.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -683,7 +683,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/punitgupta.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/punitgupta.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -701,7 +701,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/sikhamundra.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/sikhamundra.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -719,7 +719,7 @@
                             <span class="designation">Manipal University Jaipur</span>
                         </div>
                         <div class="image-box">
-                            <figure class="image"><a target="__blank" href="#"><img src="images/organizers/gauravagarwal.jpg" alt=""></a></figure>
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/gauravagarwal.jpg" alt=""></a></figure>
                         </div>
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
@@ -743,20 +743,20 @@
 
         <!--Scroll to top-->
         <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-        <script src="js/jquery.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery-ui.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/script.js"></script>
+        <script src="https://thessic.com/js/jquery.js"></script>
+        <script src="https://thessic.com/js/popper.min.js"></script>
+        <script src="https://thessic.com/js/bootstrap.min.js"></script>
+        <script src="https://thessic.com/js/jquery-ui.js"></script>
+        <script src="https://thessic.com/js/jquery.fancybox.js"></script>
+        <script src="https://thessic.com/js/appear.js"></script>
+        <script src="https://thessic.com/js/owl.js"></script>
+        <script src="https://thessic.com/js/wow.js"></script>
+        <script src="https://thessic.com/js/script.js"></script>
         <!-- Color Setting -->
-        <script src="js/color-settings.js"></script>
+        <script src="https://thessic.com/js/color-settings.js"></script>
         <!--Google Map APi Key-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPH8h1UpcK01BdcvoZeOzq-_wJqRxN1Pc"></script>
-        <script src="js/map-script.js"></script>
+        <script src="https://thessic.com/js/map-script.js"></script>
         <!--End Google Map APi-->>
         <!-- End Footer -->
 </body>

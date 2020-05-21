@@ -5,21 +5,21 @@
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link href="https://thessic.com/css/style.css" rel="stylesheet">
+<link href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
+<link href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
     <style>
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
@@ -66,7 +66,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -78,7 +78,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
             <h1>About Us</h1>
             <ul class="bread-crumb clearfix">
@@ -112,7 +112,7 @@
                 <!-- Image Column -->
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="image-box">
-                        <figure class="image wow fadeIn"><img src="images/resource/about-img-1.jpg" alt=""></figure>
+                        <figure class="image wow fadeIn"><img src="https://thessic.com/images/resource/about-img-1.jpg" alt=""></figure>
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                 <!-- Feature Block -->
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
-                        <div class="icon-box"><img class="icon" src="images/icons/conference.png" style="height:60px;width:auto;"></img></div>
+                        <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/conference.png" style="height:60px;width:auto;"></img></div>
                         <h4><a href="ssic2019.html">About SSIC 2019</a></h4>
                         <div class="text">The 2nd International Conference, SSIC was held on January 18-20, 2019. It brought together a wide range of community focused professionals and industrial experts who have the potential and expertise on the smart systems and Computing.</div>
                         <div class="link-box"><a href="about-us.html" class="theme-btn">Read More</a></div>
@@ -158,7 +158,7 @@
                 <!-- Feature Block -->
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="inner-box">
-                        <div class="icon-box"><img class="icon" src="images/icons/conference.png" style="height:60px;width:auto;"></img></div>
+                        <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/conference.png" style="height:60px;width:auto;"></img></div>
                         <h4><a href="ssic.html">About SSIC 2017</a></h4>
                         <div class="text">The 1st International Conference, SSIC was held on April 14-16, 2017. It brought together a wide range of community focused professionals and industrial experts who have the potential and expertise on the smart systems and Computing.</div>
                         <div class="link-box"><a href="https://jaipur.manipal.edu/" class="theme-btn">Read More</a></div>
@@ -223,7 +223,7 @@
 
                 <!-- Image Column -->
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                    <figure class="image"><img src="images/icons/map-4.png" alt=""></figure>
+                    <figure class="image"><img src="https://thessic.com/images/icons/map-4.png" alt=""></figure>
                 </div>
             </div>
         </div>
@@ -268,19 +268,19 @@
 
         <!--Scroll to top-->
         <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-        <script src="js/jquery.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery-ui.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/jquery.countdown.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/script.js"></script>
+        <script src="https://thessic.com/js/jquery.js"></script>
+        <script src="https://thessic.com/js/popper.min.js"></script>
+        <script src="https://thessic.com/js/bootstrap.min.js"></script>
+        <script src="https://thessic.com/js/jquery-ui.js"></script>
+        <script src="https://thessic.com/js/jquery.fancybox.js"></script>
+        <script src="https://thessic.com/js/jquery.countdown.js"></script>
+        <script src="https://thessic.com/js/appear.js"></script>
+        <script src="https://thessic.com/js/owl.js"></script>
+        <script src="https://thessic.com/js/wow.js"></script>
+        <script src="https://thessic.com/js/script.js"></script>
         <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bd0dc8955e053a2acfc5ae35a/7e21163d67bee9efec7c01637.js");</script>
         <!-- Color Setting -->
-        <script src="js/color-settings.js"></script>
+        <script src="https://thessic.com/js/color-settings.js"></script>
 </body>
  
 </html>

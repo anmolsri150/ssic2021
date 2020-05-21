@@ -5,21 +5,21 @@
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link href="https://thessic.com/css/style.css" rel="stylesheet">
+<link href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
+<link href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
     <style>
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
@@ -66,7 +66,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -78,7 +78,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
             <h1>Schedule</h1>
             <ul class="bread-crumb clearfix">
@@ -100,7 +100,7 @@
 
         <div class="auto-container">
             <div class="content">
-                <!--                <div class="logo"><a href="index.html"><img style="width:50%;" src="images/logo_image.png" alt=""></a></div>-->
+                <!--                <div class="logo"><a href="index.html"><img style="width:50%;" src="https://thessic.com/images/logo_image.png" alt=""></a></div>-->
                 <h1>Coming Soon</h1>
                 <div class="text">Stay tuned for more information.<br> Subscribe to our newsletter to stay updated</div>
                 <div class="timer">
@@ -183,7 +183,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">9.00 AM <br> 10.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -202,7 +202,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">10.00 AM <br> 11.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -221,7 +221,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">11.00 AM <br> 12.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -240,7 +240,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">12.00 AM <br> 01.00 PM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -264,7 +264,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">9.00 AM <br> 10.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -283,7 +283,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">10.00 AM <br> 11.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -302,7 +302,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">11.00 AM <br> 12.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -321,7 +321,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">12.00 AM <br> 01.00 PM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -345,7 +345,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">9.00 AM <br> 10.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -364,7 +364,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">10.00 AM <br> 11.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -383,7 +383,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">11.00 AM <br> 12.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -402,7 +402,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">12.00 AM <br> 01.00 PM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -426,7 +426,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">9.00 AM <br> 10.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -445,7 +445,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">10.00 AM <br> 11.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -464,7 +464,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">11.00 AM <br> 12.00 AM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-1.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -483,7 +483,7 @@
 <!--                                    <div class="inner">-->
 <!--                                        <div class="date">12.00 AM <br> 01.00 PM</div>-->
 <!--                                        <div class="speaker-info">-->
-<!--                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>-->
+<!--                                            <figure class="thumb"><img src="https://thessic.com/images/resource/thumb-2.jpg" alt=""></figure>-->
 <!--                                            <h5 class="name">Ashli Scroggy</h5>-->
 <!--                                            <span class="designation">Founder & CEO</span>-->
 <!--                                        </div>-->
@@ -543,17 +543,17 @@
 
         <!--Scroll to top-->
         <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-        <script src="js/jquery.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery-ui.js"></script>
-        <script src="js/jquery.countdown.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/script.js"></script>
+        <script src="https://thessic.com/js/jquery.js"></script>
+        <script src="https://thessic.com/js/popper.min.js"></script>
+        <script src="https://thessic.com/js/bootstrap.min.js"></script>
+        <script src="https://thessic.com/js/jquery-ui.js"></script>
+        <script src="https://thessic.com/js/jquery.countdown.js"></script>
+        <script src="https://thessic.com/js/jquery.fancybox.js"></script>
+        <script src="https://thessic.com/js/appear.js"></script>
+        <script src="https://thessic.com/js/wow.js"></script>
+        <script src="https://thessic.com/js/script.js"></script>
         <!-- Color Setting -->
-        <script src="js/color-settings.js"></script>
+        <script src="https://thessic.com/js/color-settings.js"></script>
         <!--End Google Map APi-->>
 </body>
 <!-- Copied from https://expert-themes.com/html/eventrox/schedule.html by Cyotek WebCopy 1.7.0.600, Thursday, September 19, 2019, 12:52:40 AM -->

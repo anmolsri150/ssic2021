@@ -5,21 +5,21 @@
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
 <!-- Stylesheets -->
-<link target="__blank" href="css/bootstrap.css" rel="stylesheet">
-<link target="__blank" href="css/style.css" rel="stylesheet">
-<link target="__blank" href="css/responsive.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/bootstrap.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/style.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link target="__blank" href="css/color-switcher-design.css" rel="stylesheet">
+<link target="__blank" href="https://thessic.com/css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" target="__blank" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" target="__blank" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" target="__blank" href="https://thessic.com/images/favicon.png" type="image/x-icon">
+<link rel="icon" target="__blank" href="https://thessic.com/images/favicon.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://thessic.com/js/respond.js"></script><![endif]-->
 
     <style>
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
@@ -69,7 +69,7 @@
                 <li class="book_item sixth"></li>
             </ul>
             <div class="shelf"></div>
-            <div class="shelf-logo"><img src="images/logo_image-min.png"/></div>
+            <div class="shelf-logo"><img src="https://thessic.com/images/logo_image-min.png"/></div>
         </div>
     </div>
     <!-- Header span -->
@@ -81,7 +81,7 @@
     <?php include 'header.php';?>
     <!--End Main Header -->
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
             <h1>Advisory Committee</h1>
             <ul class="bread-crumb clearfix">
@@ -280,20 +280,20 @@
 
         <!--Scroll to top-->
         <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-        <script src="js/jquery.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery-ui.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/script.js"></script>
+        <script src="https://thessic.com/js/jquery.js"></script>
+        <script src="https://thessic.com/js/popper.min.js"></script>
+        <script src="https://thessic.com/js/bootstrap.min.js"></script>
+        <script src="https://thessic.com/js/jquery-ui.js"></script>
+        <script src="https://thessic.com/js/jquery.fancybox.js"></script>
+        <script src="https://thessic.com/js/appear.js"></script>
+        <script src="https://thessic.com/js/owl.js"></script>
+        <script src="https://thessic.com/js/wow.js"></script>
+        <script src="https://thessic.com/js/script.js"></script>
         <!-- Color Setting -->
-        <script src="js/color-settings.js"></script>
+        <script src="https://thessic.com/js/color-settings.js"></script>
         <!--Google Map APi Key-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPH8h1UpcK01BdcvoZeOzq-_wJqRxN1Pc"></script>
-        <script src="js/map-script.js"></script>
+        <script src="https://thessic.com/js/map-script.js"></script>
         <!--End Google Map APi-->>
         <!-- End Footer -->
 
