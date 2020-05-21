@@ -40,11 +40,12 @@
 
     <!--Page Title-->
     <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
-        <div class="auto-container">
+        <div class="auto-container" >
             <h1>Call for Hosts SSIC 2022</h1>
             <ul class="bread-crumb clearfix">
                 <li><a href="https://thessic.com/">Home</a></li>
-                
+                <li>Call for</li>
+                <li>Hosts</li>
             </ul>
         </div>
     </section>
@@ -52,6 +53,9 @@
     <style>
         .icon-dots {
             visibility: hidden!important;
+        }
+        p{
+            color:rgba(0,0,0,6);
         }
     </style>
 
@@ -64,7 +68,7 @@
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div>
 
-        <div class="auto-container" >
+        <div class="auto-container" style="text-align: left!important;">
             <div class="error-title" style="font-size: 45px; margin-bottom: 30px;">CALL FOR HOSTING SSIC-2022</div>
 
     
@@ -74,9 +78,10 @@
     
                 The SSIC core committee invites proposals from institutes for hosting the 4th International conference in 2022. The preferred conference date is during 1st or 2nd week of January 2022. Other nearby dates can be discussed. The committee expects the co-organizing institution to bear some responsibilities of managing the conference, and hence a group of active organizers is most welcome.</p>
     
-                <br><br><h4 style="font-size: 16px;">THE SCHEDULE FOR THE SELECTION OF THE HOSTING OF THE 4th SSIC 2022 IS As FOLLOWS: </h4>
+                <br><br><h4 style="font-size: 16px; text-align: center;">THE SCHEDULE FOR THE SELECTION OF THE HOSTING OF THE 4th SSIC 2022 IS As FOLLOWS: </h4>
     
-            <table ><colgroup><col ><col ></colgroup>
+            <table >
+<!--                <colgroup><col ><col ></colgroup>-->
                 <tbody>
                     <tr>
                         <td><p>Announcement of Call for Proposals</p></td>
@@ -127,7 +132,7 @@
     
             <h4 style="font-size: 18px;">Proposals for hosting the SSIC 2022 Conference should consist of a 3-5 page document that includes the following information: </h4>
     
-            <ol style="text-align: left; margin-left: 90px;"<li><p>1.) The Professional Curriculum Vitae of the applicant (who will serve as one of the Programme Co-Chairs if proposal is accepted). </p>
+            <ol style="text-align: left; "<li><p>1.) The Professional Curriculum Vitae of the applicant (who will serve as one of the Programme Co-Chairs if proposal is accepted). </p>
         
                 </li>
             
@@ -158,7 +163,7 @@
         
                 </li>
             </ol><br>
-            <<div class="error-title" style="font-size: 27px;margin-bottom: 30px;">Contact Person for Special Session:</div>
+            <div class="error-title" style="font-size: 27px;margin-bottom: 30px;">Contact Person for Special Session:</div>
     
             <br>
             <ol ><li><p>Ankit Mundra (<a href="mailto:ankit.mundra@jaipur.manipal.edu" >ankit.mundra@jaipur.manipal.edu</a>)</p>
