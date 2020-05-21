@@ -24,7 +24,21 @@
 </head>
 
 <body>
-
+<style>
+    .icon-dots {
+        visibility: hidden!important;
+    }
+    hr.left {
+        text-align: left;
+        margin-left: 0;
+    }
+    .spacing-temps{
+        margin-top: 60px;
+    }
+    p {
+        color: rgba(0,0,0,0.8);
+    }
+</style>
 <div class="page-wrapper">
 
     <!-- Preloader -->
@@ -41,10 +55,11 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
-            <h1>Error Page</h1>
+            <h1>Call For Special Session</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
-                <li>Error Page</li>
+                <li><a href="https://thessic.com">Home</a></li>
+                <li>Call for</li>
+                <li>Special Session</li> 
             </ul>
         </div>
     </section>
@@ -59,11 +74,134 @@
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div>
 
-        <div class="auto-container">
-            <div class="error-title">404</div>
-            <h4>Page not Found</h4>
-            <div class="text">Sorry, we couldn't find the page you're looking for</div>
-            <a href="https://thessic.com" class="theme-btn btn-style-three"><span class="btn-title">Home Page</span></a>
+        <div class="auto-container" style="text-align:left!important;">
+        <h2 align="left" style="font-size: 40px;" class="error-title">
+            <strong>Proposal Submissions Guidelines</strong>
+            <strong>
+                <hr class="left" size="0" width="30%"/>
+            </strong>
+        </h2>
+        <p align="justify">
+            SSIC 2021 will be hosting a series of special sessions. Special Sessions
+            feature topics relevant to the theme of conference and community on the
+            latest research, engineering, standards, and business issues. These special
+            session events typically include a mix of regular and invited presentations
+            including regular papers as well as invited presentations.
+        </p>
+        <h2 style="font-size: 40px;" class="error-title spacing-temps">
+            <strong>How to Submit:</strong>
+                <hr class="left" size="0" width="30%"/>
+        </h2>
+        <p>
+            Each proposal must include the following applications and should be maximum
+            five pages.
+        </p>
+        <div>
+        <h2 style="font-size: 40px;" class="error-title spacing-temps" align="left">
+            <strong>Special Session Theme:</strong>
+                <hr class="left" size="0" width="30%"/>
+        </h2>
+        </div>
+        <p>
+            <strong align="left"> </strong>
+        </p>
+        <p align="left">
+            SSIC-2021 invites the experts to conduct special sessions on the following
+            themes (<strong>Not limited to</strong>):
+        </p>
+        <p align="left">
+            <strong> </strong>
+        </p>
+        <p align="left">
+            <strong>&#183;</strong>
+            <strong>
+                Smart Vehicles
+                <br/>
+            </strong>
+            <strong>&#183;</strong>
+            <strong>
+                Health care Application of IoT and Security
+                <br/>
+            </strong>
+            <strong>&#183;</strong>
+            <strong>
+                Smart Cities
+                <br/>
+            </strong>
+            <strong>&#183;</strong>
+            <strong>
+                Computational Linguistics and Applications
+                <br/>
+            </strong>
+        </p>
+        <p>
+            <strong>Special Session Application:</strong>
+            <u> <a href="https://thessic.com/resources/special_session_form_ssic_2021.pdf">click here</a></u>
+        </p>
+        <p>
+            <strong> </strong>
+        </p>
+        <p>
+            <strong>
+                Special Session proposals must be submitted via email to the SSIC:
+            </strong>
+            <a
+                href="mailto:ssic.muj@gmail.com"
+            >
+                <strong> ssic.muj@gmail.com</strong>
+            </a>
+            <strong> and ankit.mundra@jaipur.manipal.edu</strong>
+            <strong> with</strong>
+            <strong>
+                &#8220;Application for Special Session the SSIC-2021 Conference&#8221;
+            </strong>
+            <strong> written in the subject line of your message.</strong>
+        </p>
+        <p>
+            <strong> </strong>
+        </p>
+        <h2 style="font-size: 40px;" class="error-title spacing-temps">
+            <strong>Important Dates for Special Session Proposal Submissions: </strong>
+                <hr class="left" size="0" width="30%"/>
+        </h2>
+        <p>
+            <strong> </strong>
+        </p>
+        <p>
+            <strong>DEADLINE::</strong>
+            30th July, 2020
+        </p>
+        <p>
+        For more details please visit the conference website (    <a href="https://thessic.com/">www.thessic.com</a> ) <strong></strong>
+        </p>
+        <h2 style="font-size: 40px;" class="error-title spacing-temps">
+            <strong>Contact Person for Special Session: </strong>
+                <hr class="left" size="0" width="30%"/>
+        </h2>
+        <p>
+            <strong></strong>
+        </p>
+        <p>
+            1. Ankit Mundra (
+            <a href="mailto:ankit.mundra@jaipur.manipal.edu">
+                ankit.mundra@jaipur.manipal.edu
+            </a>
+            )
+        </p>
+        <p>
+            2. Rohit Kumar Gupta (
+            <a href="mailto:rohitkumar.gupta@jaipur.manipal.edu">
+                rohitkumar.gupta@jaipur.manipal.edu
+            </a>
+            )
+        </p>
+        <p>
+            3. Vivek Kumar Verma (
+            <a href="mailto:Vivekkumar.verma@jaipur.manipal.edu">
+                Vivekkumar.verma@jaipur.manipal.edu
+            </a>
+            )
+        </p>
         </div>
     </section>
     <!--Error Section-->
