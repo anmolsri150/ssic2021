@@ -2,7 +2,7 @@
     <div class="main-box">
         <div class="auto-container clearfix">
             <div class="logo-box" id="logo">
-                <div class="logo"><a href="index.html"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
+                <div class="logo"><a href="https://thessic.com/"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
             </div>
 
             <!--Nav Box-->
