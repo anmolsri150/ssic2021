@@ -2,7 +2,7 @@
     <div class="main-box">
         <div class="auto-container clearfix">
             <div class="logo-box" id="logo">
-                <div class="logo"><a href="https://thessic.com/"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
+                <div class="logo"><a href="https:://thessic.com/"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
             </div>
 
             <!--Nav Box-->
@@ -81,7 +81,7 @@
 
         <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="https:://thessic.com/"><img src="https://thessic.com/images/logo_image.png" alt="" title=""></a></div>
 
             <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             <div class="btn-box" style="margin: 15px;">

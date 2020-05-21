@@ -85,7 +85,7 @@
         <div class="auto-container">
             <h1>Important Dates</h1>
             <ul class="bread-crumb clearfix">
-                <li><a target="__blank" href="index.html">Author Info.</a></li>
+                <li><a target="__blank" href="https:://thessic.com/">Author Info.</a></li>
                 <li>Important Dates</li>
             </ul>
         </div>

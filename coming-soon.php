@@ -89,7 +89,7 @@
 
         <div class="auto-container">
             <div class="content">
-                <!--                <div class="logo"><a href="index.html"><img style="width:50%;" src="https://thessic.com/images/logo_image.png" alt=""></a></div>-->
+                <!--                <div class="logo"><a href="https:://thessic.com/"><img style="width:50%;" src="https://thessic.com/images/logo_image.png" alt=""></a></div>-->
                 <h1>Coming Soon</h1>
                 <div class="text">Stay tuned for more information.<br> Subscribe to our newsletter to stay updated</div>
                 <div class="timer">

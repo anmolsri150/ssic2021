@@ -43,7 +43,7 @@
         <div class="auto-container">
             <h1>Error Page</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="https:://thessic.com/">Home</a></li>
                 <li>Error Page</li>
             </ul>
         </div>

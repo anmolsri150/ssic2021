@@ -81,7 +81,7 @@
         <div class="auto-container">
             <h1>Speakers</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="https:://thessic.com/">Home</a></li>
                 <li>Speakers</li>
             </ul>
         </div>
