@@ -57,6 +57,9 @@
         p{
             color:rgba(0,0,0,6);
         }
+        .error-title {
+        text-align: center;
+        }
     </style>
 
     <!--Error Section-->

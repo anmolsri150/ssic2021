@@ -38,6 +38,9 @@
     p {
         color: rgba(0,0,0,0.8);
     }
+    .error-title {
+        text-align: center;
+    }
 </style>
 <div class="page-wrapper">
 
