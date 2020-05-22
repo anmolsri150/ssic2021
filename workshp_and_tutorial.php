@@ -72,7 +72,7 @@
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div>
 
-        <div class="auto-container"style="text-align: justify-all;">
+        <div class="auto-container"style="text-align: justify;">
 <!--            <div class="error-title">404</div>-->
 <!--            <h4>Page not Found</h4>-->
 <!--            <div class="text">Sorry, we couldn't find the page you're looking for</div>-->
