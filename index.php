@@ -25,7 +25,7 @@ switch ($request) {
         require __DIR__ . '/papers.php';
         break;
     case '/callfor/workshop_and_tutorial' :
-        require __DIR__ . '/workshp_and_tutorial.php';
+        require __DIR__ . '/workshop_and_tutorial.php';
         break;
     case '/callfor/special_session' :
         require __DIR__ . '/special_session.php';
