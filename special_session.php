@@ -81,7 +81,7 @@
                     <hr class="left" size="0" width="30%"/>
                 </strong>
             </h2>
-            <p align="justify">
+            <p style="text-align: justify!important;">
                 SSIC 2021 will be hosting a series of special sessions. Special Sessions
                 feature topics relevant to the theme of conference and community on the
                 latest research, engineering, standards, and business issues. These special
