@@ -44,16 +44,20 @@
         p{
             color:rgba(0,0,0,6);
         }
+        .error-title {
+            text-align: center;
+        }
        
     </style>
 
     <!--Page Title-->
     <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
-            <h1>Error Page</h1>
+            <h1>Call for Workshops and Tutorials</h1>
             <ul class="bread-crumb clearfix">
                 <li><a href="https:://thessic.com/">Home</a></li>
-                <li>Error Page</li>
+                <li>Call for</li>
+                <li>Workshops and Tutorials</li>
             </ul>
         </div>
     </section>

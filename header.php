@@ -36,7 +36,7 @@
                                     <li><a href="https://thessic.com/callfor/papers">Papers</a></li>
                                     <li><a href="https://thessic.com/callfor/workshop_and_tutorial">Workshop And Tutorial</a></li>
                                     <li><a href="https://thessic.com/callfor/special_session">Special Session</a></li>
-                                    <li><a href="https://thessic.com/callfor/host">Host</a></li>
+                                    <li><a href="https://thessic.com/callfor/host">Hosts 2022</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown"><a href="#">Committees</a>
