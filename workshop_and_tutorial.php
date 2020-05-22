@@ -214,7 +214,6 @@
         
                 </li>
             </ol>
-            <a href="https://thessic.com" class="theme-btn btn-style-three"><span class="btn-title">Home Page</span></a>
         </div>
     </section>
     <!--Error Section-->
