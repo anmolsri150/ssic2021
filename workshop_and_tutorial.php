@@ -183,7 +183,7 @@
            
             </ol>
     
-            <h4 style="font-size: 20px">Workshop and tutorial Application: <a href="https://thessic.com/resources/workshop_proposal_form_ssic_2021.pdf" ><span class="btn-title">Click Here    </span></a>(attached pdf file)</h4>
+            <h4 style="font-size: 20px">Workshop and tutorial Application: <a href="https://thessic.com/resources/workshop_proposal_form_ssic_2021.pdf" target="_blank"><span class="btn-title">Click Here    </span></a>(attached pdf file)</h4>
     
             <p><strong>Workshop or Tutorial proposals must be submitted via email to the SSIC:</strong><a href="about:blank" > ssic.muj@gmail.com</a> and <a href="mailto:ankit.mundra@jaipur.manipal.edu" >ankit.mundra@jaipur.manipal.edu</a> with “Application for Workshop/Tutorial the SSIC-2021 Conference” written in the subject line of your message.</p>
     
