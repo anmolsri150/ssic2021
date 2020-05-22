@@ -28,9 +28,9 @@
     .icon-dots {
         visibility: hidden!important;
     }
-    hr.left {
-        text-align: left;
-        margin-left: 0;
+    hr.justify {
+        text-align: justify;
+        margin-justify: 0;
     }
     .spacing-temps{
         margin-top: 60px;
@@ -72,16 +72,16 @@
     <section class="error-section">
         <div class="anim-icons full-width">
             <span class="icon icon-circle-blue wow fadeIn"></span>
-            <span class="icon icon-dots wow fadeInleft"></span>
+            <span class="icon icon-dots wow fadeInjustify"></span>
             <span class="icon icon-line-1 wow zoomIn"></span>
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div>
 
-        <div class="auto-container" style="text-align:left!important;">
-            <h2 align="left" style="font-size: 40px;" class="error-title">
+        <div class="auto-container" style="text-align:justify!important;">
+            <h2 align="justify" style="font-size: 40px;" class="error-title">
                 <strong>Proposal Submissions Guidelines</strong>
                 <strong>
-                    <hr class="left" size="0" width="30%"/>
+                    <hr class="justify" size="0" width="30%"/>
                 </strong>
             </h2>
             <p style="text-align: justify!important;">
@@ -93,29 +93,29 @@
             </p>
             <h2 style="font-size: 40px;" class="error-title spacing-temps">
                 <strong>How to Submit:</strong>
-                    <hr class="left" size="0" width="30%"/>
+                    <hr class="justify" size="0" width="30%"/>
             </h2>
             <p>
                 Each proposal must include the following applications and should be maximum
                 five pages.
             </p>
             <div>
-            <h2 style="font-size: 40px;" class="error-title spacing-temps" align="left">
+            <h2 style="font-size: 40px;" class="error-title spacing-temps" align="justify">
                 <strong>Special Session Theme:</strong>
-                    <hr class="left" size="0" width="30%"/>
+                    <hr class="justify" size="0" width="30%"/>
             </h2>
             </div>
             <p>
-                <strong align="left"> </strong>
+                <strong align="justify"> </strong>
             </p>
-            <p align="left">
+            <p align="justify">
                 SSIC-2021 invites the experts to conduct special sessions on the following
                 themes (<strong>Not limited to</strong>):
             </p>
-            <p align="left">
+            <p align="justify">
                 <strong> </strong>
             </p>
-            <p align="left">
+            <p align="justify">
                 <strong>&#183;</strong>
                 <strong>
                     Smart Vehicles
@@ -165,7 +165,7 @@
             </p>
             <h2 style="font-size: 40px;" class="error-title spacing-temps">
                 <strong>Important Dates for Special Session Proposal Submissions: </strong>
-                    <hr class="left" size="0" width="30%"/>
+                    <hr class="justify" size="0" width="30%"/>
             </h2>
             <p>
                 <strong> </strong>
@@ -179,7 +179,7 @@
             </p>
             <h2 style="font-size: 40px;" class="error-title spacing-temps">
                 <strong>Contact Person for Special Session: </strong>
-                    <hr class="left" size="0" width="30%"/>
+                    <hr class="justify" size="0" width="30%"/>
             </h2>
             <p>
                 <strong></strong>
