@@ -86,7 +86,7 @@
             <p>Tutorials are supposed to teach participants hands - on practical knowledge about emerging innovative computational techniques and enable them to use the learned technology for their own projects.</p>
     
             <div class="error-title" style="font-size: 35px;margin-bottom: 30px; margin-top: 20px;">How to Apply</div>
-    
+        
             <p><strong>Each proposal must include the following applications and should be maximum five pages.</strong></p>
     
             <p><strong>Theme for Workshop or Tutorial (not limited to)</strong></p>
