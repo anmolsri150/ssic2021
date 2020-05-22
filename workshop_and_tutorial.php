@@ -77,8 +77,6 @@
 <!--            <h4>Page not Found</h4>-->
 <!--            <div class="text">Sorry, we couldn't find the page you're looking for</div>-->
     
-            <div class="error-title" style="font-size: 45px; margin-bottom: 30px;">Call for WORKSHOP or Tutorial</div>
-    
             <div class="error-title" style="font-size: 40px;">Proposal Submissions Guidelines</div>
     
             <hr /><p>SSIC 2021 will be hosting a series of workshops and tutorials. Workshops and tutorials feature topics relevant to the Conference theme on the latest research, engineering, standards and business issues. </p>
