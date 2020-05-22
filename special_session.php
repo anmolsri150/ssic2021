@@ -184,7 +184,7 @@
             <p>
                 <strong></strong>
             </p>
-            <p> style="text-align:left!important;"
+            <p style="text-align:left!important;"> 
                 1. Ankit Mundra (
                 <a href="mailto:ankit.mundra@jaipur.manipal.edu">
                     ankit.mundra@jaipur.manipal.edu
