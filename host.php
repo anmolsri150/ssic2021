@@ -71,7 +71,7 @@
             <span class="icon icon-circle-1 wow zoomIn"></span>
         </div>
 
-        <div class="auto-container" style="text-align: justify-all;">
+        <div class="auto-container" style="text-align: justify;">
             <div class="error-title" style="font-size: 45px; margin-bottom: 30px;">CALL FOR HOSTING SSIC-2022</div>
 
     
