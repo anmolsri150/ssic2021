@@ -60,6 +60,9 @@
         .error-title {
         text-align: center;
         }
+        td > p {
+            text-align: justify!important;
+        }
     </style>
 
     <!--Error Section-->
@@ -179,10 +182,6 @@
         
                 </li>
             </ol><br>
-<!--            <div class="error-title">404</div>-->
-<!--            <h4>Page not Found</h4>-->
-<!--            <div class="text">Sorry, we couldn't find the page you're looking for</div>-->
-            <a href="https://thessic.com" class="theme-btn btn-style-three"><span class="btn-title">Home Page</span></a>
         </div>
     </section>
     <!--Error Section-->
