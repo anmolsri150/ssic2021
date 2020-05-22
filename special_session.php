@@ -184,21 +184,21 @@
             <p>
                 <strong></strong>
             </p>
-            <p>
+            <p> style="text-align:left!important;"
                 1. Ankit Mundra (
                 <a href="mailto:ankit.mundra@jaipur.manipal.edu">
                     ankit.mundra@jaipur.manipal.edu
                 </a>
                 )
             </p>
-            <p>
+            <p style="text-align:left!important;">
                 2. Rohit Kumar Gupta (
                 <a href="mailto:rohitkumar.gupta@jaipur.manipal.edu">
                     rohitkumar.gupta@jaipur.manipal.edu
                 </a>
                 )
             </p>
-            <p>
+            <p style="text-align:left!important;">
                 3. Vivek Kumar Verma (
                 <a href="mailto:Vivekkumar.verma@jaipur.manipal.edu">
                     Vivekkumar.verma@jaipur.manipal.edu

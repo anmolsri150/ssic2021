@@ -169,7 +169,7 @@
             <div class="error-title" style="font-size: 27px;margin-bottom: 30px;">Contact Person for Special Session:</div>
     
             <br>
-            <ol ><li><p>Ankit Mundra (<a href="mailto:ankit.mundra@jaipur.manipal.edu" >ankit.mundra@jaipur.manipal.edu</a>)</p>
+            <ol style="text-align:left!important;"><li><p>Ankit Mundra (<a href="mailto:ankit.mundra@jaipur.manipal.edu" >ankit.mundra@jaipur.manipal.edu</a>)</p>
         
                 </li>
                 <li><p>Rohit Kumar Gupta (<a href="mailto:rohitkumar.gupta@jaipur.manipal.edu" >rohitkumar.gupta@jaipur.manipal.edu</a>)</p>
