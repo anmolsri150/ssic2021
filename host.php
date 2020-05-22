@@ -41,7 +41,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container" >
-            <h1>Call for Hosts SSIC 2022</h1>
+            <h1>CALL FOR HOSTING SSIC-2022</h1>
             <ul class="bread-crumb clearfix">
                 <li><a href="https://thessic.com/">Home</a></li>
                 <li>Call for</li>
@@ -75,9 +75,6 @@
         </div>
 
         <div class="auto-container" style="text-align: justify;">
-            <div class="error-title" style="font-size: 45px; margin-bottom: 30px;">CALL FOR HOSTING SSIC-2022</div>
-
-    
             <div class="error-title" style="font-size: 40px;">4th International Conference SSIC-2022</div>
     
             <hr /><p>The International Conference SSIC brings together researchers and specialists in the area of smart systems and innovation in computing since 2017. SSIC highlights the various aspects of computer science with special focus on the high-performance computing, IOT, smart systems and security etc. <br>Information about previous editions of the conference can be found on the web pages for SSIC-2017 (<a href="https://www.thessic.com/ssic.html" >https://www.thessic.com/ssic.html</a>), SSIC-2019 (<a href="https://www.thessic.com/ssic2019.html" >https://www.thessic.com/ssic2019.html</a>) and next version SSIC-2021 (<a href="https://www.thessic.com/about-us.html" >https://www.thessic.com/about-us.html</a> ) .
