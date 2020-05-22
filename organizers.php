@@ -512,7 +512,7 @@
             <div class="row">
 
                 <!-- Speaker Block -->
-                <div class="speaker-block-two col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
+                <div class="speaker-block-two col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                     <div class="inner-box height-fix">
                         <div class="info-box">
                             <h4 class="name"><a target="__blank" href="#">Nouby M Ghazaly</a></h4>
@@ -531,7 +531,7 @@
 
 
                 <!-- Speaker Block -->
-                <div class="speaker-block-two col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
+                <div class="speaker-block-two col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                     <div class="inner-box height-fix">
                         <div class="info-box">
                             <h4 class="name"><a target="__blank" href="#">Lalit Garg</a></h4>
@@ -547,7 +547,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="speaker-block-two col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
+                <div class="speaker-block-two col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                     <div class="inner-box height-fix">
                         <div class="info-box">
                             <h4 class="name"><a target="__blank" href="#">Manjit Kaur</a></h4>
@@ -563,6 +563,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="speaker-block-two col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box height-fix">
                         <div class="info-box">
@@ -575,6 +576,23 @@
                         <div class="social-box">
                             <ul class="social-links social-icon-colored">
                                 <li><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="speaker-block-two col-lg-6 col-md-6 col-sm-12 wow fadeInUp">
+                    <div class="inner-box height-fix">
+                        <div class="info-box">
+                            <h4 class="name"><a target="__blank" href="#">Dr. Deepak Sinwar</a></h4>
+                            <span class="designation">Assistant Professor at Manipal University Jaipur</span>
+                        </div>
+                        <div class="image-box">
+                            <figure class="image"><a target="__blank" href="#"><img src="https://thessic.com/images/organizers/dr-deepak-sinwar.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="social-box">
+                            <ul class="social-links social-icon-colored">
+                                <li><a target="__blank" href="https://www.linkedin.com/in/dr-deepak-sinwar-2379b321/"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>
