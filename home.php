@@ -109,8 +109,20 @@
                         <li>2.&nbsp;<a href="https://www.springer.com/series/15179" target="__blank">Lecture Notes in Networks and Systems</a></li>
                     </ol>
                 </div>
-                <br><br>
+                <br>
+
                 <div class="time-counter"><div class="time-countdown clearfix" data-countdown="1/22/2021"></div></div>
+                
+            <div class="row" >
+                <div class="col-md-5">
+                    <div class="alert alert-danger alert-dismissible" role="alert" style="background-color:#8b0967!important;">
+                        <marquee><a href="https://thessic.com/covid19"><p style="color:#f3f3f3!important;font-family: Impact; font-size: 18pt">Smart Solution to live with covid-19 (Special Track with fast review)</p></a></marquee>
+                    </div>
+                </div>
+                <div class="col-md-7">
+                </div>
+            </div>
+            <br>
                 <div>The few accepted high quality or extended papers will be recommended for possible<br>publication in Special Issues of following journals:
                     <ol>
                         <li>1.&nbsp;Machine and Deep learning based pattern recognition and computer vision<br>&nbsp;&nbsp;&nbsp;in the <a href="https://benthamopen.com/TOTJ/home/" target="__blank">The Open Transportation Journal</a></li>
