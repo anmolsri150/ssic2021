@@ -149,9 +149,9 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
                         <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/conference.png" style="height:60px;width:auto;"></img></div>
-                        <h4><a href="ssic2019.html">About SSIC 2019</a></h4>
+                        <h4><a href="https://thessic.com/about/ssic2019">About SSIC 2019</a></h4>
                         <div class="text">The 2nd International Conference, SSIC was held on January 18-20, 2019. It brought together a wide range of community focused professionals and industrial experts who have the potential and expertise on the smart systems and Computing.</div>
-                        <div class="link-box"><a href="about-us.html" class="theme-btn">Read More</a></div>
+                        <div class="link-box"><a href="https://thessic.com/about/ssic2019" class="theme-btn">Read More</a></div>
                     </div>
                 </div>
 
@@ -159,9 +159,9 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="inner-box">
                         <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/conference.png" style="height:60px;width:auto;"></img></div>
-                        <h4><a href="ssic.html">About SSIC 2017</a></h4>
+                        <h4><a href="https://thessic.com/about/ssic2017">About SSIC 2017</a></h4>
                         <div class="text">The 1st International Conference, SSIC was held on April 14-16, 2017. It brought together a wide range of community focused professionals and industrial experts who have the potential and expertise on the smart systems and Computing.</div>
-                        <div class="link-box"><a href="https://jaipur.manipal.edu/" class="theme-btn">Read More</a></div>
+                        <div class="link-box"><a href="https://thessic.com/about/ssic2017" class="theme-btn">Read More</a></div>
                     </div>
                 </div>
             </div>

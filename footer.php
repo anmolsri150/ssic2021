@@ -33,8 +33,8 @@
                                     <li><a href="https://thessic.com/">Home</a></li>
                                     <li><a href="https://thessic.com/about/ssic">About Us</a></li>
                                     <li><a href="https://thessic.com/speakers">Speakers</a></li>
-                                    <li><a href="https://thessic.com/committees/advisory">Committees</a></li>
-                                    <li><a href="https://thessic.com/info/schedule">Schedule</a></li>
+                                    <li><a href="https://thessic.com/committees/organizers">Committees</a></li>
+                                    <li><a href="https://thessic.com/info/dates">Schedule</a></li>
                                 </ul>
                             </div>
                         </div>
