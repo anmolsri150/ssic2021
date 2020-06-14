@@ -212,7 +212,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6 col-sm-12 wow fadeIn">
+            <div class="col-md-12 col-sm-12 wow fadeIn">
                 <section class="gallery-section" style="padding-top: 0px; padding-bottom: 10px;">
                     <div class="auto-container">
                         <div class="sec-title text-center">
@@ -222,13 +222,21 @@
 
                         <div class="row">
                             <!-- Gallery Item -->
-                            <div class="gallery-item offset-md-4 col-md-4 col-sm-12 wow fadeIn" id="eff" data-wow-delay="800ms">
+                            <div class="gallery-item col-md-4 col-sm-12 wow fadeIn" id="eff" data-wow-delay="800ms">
                                 <div class="image-box eyy" style="width:250px;">
                                     <figure class="image" ><img src="https://thessic.com/images/eff.png" style="height: 150px;width: 250px;" alt=""></figure>
                                 </div>
                             </div>
-                            <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
-                           </div>
+                            <div class="gallery-item col-md-4 col-sm-12 wow fadeIn" id="eff" data-wow-delay="800ms">
+                                <div class="image-box eyy" style="width:180px;height:auto;">
+                                    <figure class="image" ><img src="https://thessic.com/images/intro-logo-flat.png" style="height: 150px;width: 250px;" alt=""></figure>
+                                </div>
+                            </div>
+                            <div class="gallery-item col-md-4 col-sm-12 wow fadeIn" id="eff" data-wow-delay="800ms">
+                                <div class="image-box eyy" style="width:225px;">
+                                    <figure class="image" ><img src="https://thessic.com/images/ieee.png" style="height: 150px;width: 250px;" alt=""></figure>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </section>
