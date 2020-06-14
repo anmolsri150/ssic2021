@@ -45,9 +45,6 @@
                 height: auto !important;
             }
         }
-        p, .text {
-            color: #000!important;
-        }
     </style>
 
 </head>
