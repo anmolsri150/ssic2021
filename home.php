@@ -227,6 +227,11 @@
                                     <figure class="image" ><img src="https://thessic.com/images/eff.png" style="height: 150px;width: 250px;" alt=""></figure>
                                 </div>
                             </div>
+                            <div class="gallery-item offset-md-4 col-md-4 col-sm-12 wow fadeIn" id="eff" data-wow-delay="800ms">
+                                <div class="image-box eyy" style="width:250px;">
+                                    <figure class="image" ><img src="https://thessic.com/images/intro-logo-flat.png" style="height: 150px;width: 250px;" alt=""></figure>
+                                </div>
+                            </div>
                             <div class="gallery-item col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
                            </div>
                         </div>
