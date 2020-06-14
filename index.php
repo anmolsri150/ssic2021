@@ -58,7 +58,7 @@ switch ($request) {
         require __DIR__ . '/coming-soon.php';
         break;
     case '/info/registration' :
-        require __DIR__ . '/coming-soon.php';
+        require __DIR__ . '/registration.php';
         break;
     case '/info/schedule' :
         require __DIR__ . '/coming-soon.php';

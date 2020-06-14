@@ -1,6 +1,5 @@
 ﻿<!DOCTYPE html>
  <html lang="en">
-<!-- Copied from https://expert-themes.com/html/eventrox/speakers.html by Cyotek WebCopy 1.7.0.600, Thursday, September 19, 2019, 12:52:40 AM -->
 <head>
 <meta charset="utf-8">
     <title>SSIC 2021 | Manipal University Jaipur</title>
@@ -219,5 +218,4 @@
             <!-- Color Setting -->
             <script src="https://thessic.com/js/color-settings.js"></script>
 </body>
-<!-- Copied from https://expert-themes.com/html/eventrox/speakers.html by Cyotek WebCopy 1.7.0.600, Thursday, September 19, 2019, 12:52:40 AM -->
 </html>
