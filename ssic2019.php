@@ -728,6 +728,7 @@
         </div>
     </section>
     <!--End Call to action -->
+    
     <!-- Main Footer -->
     <?php include 'footer.php';?>
 
