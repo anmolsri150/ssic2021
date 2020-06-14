@@ -261,9 +261,9 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
                         <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/conference.png" style="height:60px;width:auto;"></img></div>
-                        <h4><a href="#">About SSIC</a></h4>
+                        <h4><a href="https://thessic.com/about/ssic">About SSIC</a></h4>
                         <div class="text">Smart Systems and Intelligent Computing is an international forum for researchers, engineers, academicians as well as industrial professionals from all over the world </div>
-                        <div class="link-box"><a href="#" class="theme-btn">Read More</a></div>
+                        <div class="link-box"><a href="https://thessic.com/about/ssic" class="theme-btn">Read More</a></div>
                     </div>
                 </div>
 
@@ -281,9 +281,9 @@
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                     <div class="inner-box">
                         <div class="icon-box"><img class="icon" src="https://thessic.com/images/icons/temple.png" style="height:60px;width:auto;"></img></div>
-                        <h4><a href="about-jaipur.html">About Jaipur</a></h4>
+                        <h4><a href="https://thessic.com/about/jaipur">About Jaipur</a></h4>
                         <div class="text">Resplendent in the hues of its noble and magnificent past, the historic city of Jaipur stands out as one of the most spectacular and culturally vibrant destinations in the world</div>
-                        <div class="link-box"><a href="about-jaipur.html" class="theme-btn">Read More</a></div>
+                        <div class="link-box"><a href="https://thessic.com/about/jaipur" class="theme-btn">Read More</a></div>
                     </div>
                 </div>
             </div>
