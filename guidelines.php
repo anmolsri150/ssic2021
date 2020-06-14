@@ -80,7 +80,7 @@
         <div class="auto-container">
             <h1>Author's Guidelines</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="https:://thessic.com/">Home</a></li>
+                <li><a href="https://thessic.com/">Home</a></li>
                 <li>Author's Guidelines</li>
             </ul>
         </div>

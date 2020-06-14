@@ -10,7 +10,7 @@
                         <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
                             <div class="footer-widget about-widget">
                                 <div class="logo">
-                                    <a href="https:://thessic.com/"><img src="https://thessic.com/images/logo_image-min.png" alt=""></a>
+                                    <a href="https://thessic.com/"><img src="https://thessic.com/images/logo_image-min.png" alt=""></a>
                                 </div>
                                 <div class="text">
                                     <p>Smart Systems and Intelligent Computing is an international forum for researchers, engineers, academicians as well as industrial professionals from all over the world</p>

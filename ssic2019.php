@@ -141,7 +141,7 @@
 
                     <h5><span style="color:#FFA500">DOI:</span>&nbsp; 10.1007/978-981-13-8406-6</h5>
 
-                    <h5><span style="color:#FFA500">Hardcover ISBN::</span>&nbsp; 978-981-13-8405-9</h5>
+                    <h5><span style="color:#FFA500">Hardcover ISBN:</span>&nbsp; 978-981-13-8405-9</h5>
 
                     <h5><span style="color:#FFA500">Series ISSN:</span>&nbsp; 2190-3018</h5>
 

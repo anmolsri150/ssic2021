@@ -84,7 +84,7 @@
         <div class="auto-container">
             <h1>Techincal Program Committee</h1>
             <ul class="bread-crumb clearfix">
-                <li><a target="__blank" href="https:://thessic.com/">Organisers</a></li>
+                <li><a target="__blank" href="https://thessic.com/">Organisers</a></li>
                 <li>Techincal Program Committee</li>
             </ul>
         </div>

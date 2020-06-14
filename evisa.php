@@ -99,7 +99,7 @@
         <div class="auto-container">
             
             <div class="content">
-                <!--                <div class="logo"><a href="https:://thessic.com/"><img style="width:50%;" src="https://thessic.com/images/logo_image.png" alt=""></a></div>-->
+                <!--                <div class="logo"><a href="https://thessic.com/"><img style="width:50%;" src="https://thessic.com/images/logo_image.png" alt=""></a></div>-->
                 <div id="c4988" class="csc-default"><h2><b>Information for Getting Indian Visa</b><br><br></h2><div class="csc-textpic-text"><p>SSIC 2021 participants should apply for a conference visa to attend the conference in Jaipur, India. Families of conference participants should apply for a tourist visa. To get accurate information about how to apply for the above visas please check the websites of the Indian Consulates in your respective countries as the application process may vary between countries.
                 </p>
                 <p>Some general points to note</p>

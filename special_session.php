@@ -171,7 +171,7 @@
                 <strong> </strong>
             </p>
             <p>
-                <strong>DEADLINE::</strong>
+                <strong>DEADLINE:</strong>
                 30th July, 2020
             </p>
             <p>
