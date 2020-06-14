@@ -82,7 +82,7 @@
         <div class="auto-container">
             <h1>Contact Us</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="https:://thessic.com/">Home</a></li>
+                <li><a href="https://thessic.com/">Home</a></li>
                 <li>Contact Us</li>
             </ul>
         </div>

@@ -376,7 +376,7 @@
                 <div class="speaker-block-three col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="heightfix inner-box">
                         <div class="image-box">
-                            <figure class="image"><a target="_blank" href="https://www.linkedin.com/in/subhajitbhattacharya07/"><img src="/https://thessic.com/images/speakers/subh.jpeg" alt=""></a></figure>
+                            <figure class="image"><a target="_blank" href="https://www.linkedin.com/in/subhajitbhattacharya07/"><img src="https://thessic.com/images/speakers/subh.jpeg" alt=""></a></figure>
                         </div>
                         <div class="info-box">
                             <h4 class="name"><a target="_blank" href="https://www.linkedin.com/in/subhajitbhattacharya07/">Subhajit Bhattacharya</a></h4>

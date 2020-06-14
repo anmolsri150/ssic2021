@@ -139,7 +139,7 @@
 
                     <h5><span style="color:#FFA500">DOI:</span>&nbsp; 10.1007/978-981-10-5828-8</h5>
 
-                    <h5><span style="color:#FFA500">Hardcover ISBN::</span>&nbsp; 978-981-10-5827-1</h5>
+                    <h5><span style="color:#FFA500">Hardcover ISBN:</span>&nbsp; 978-981-10-5827-1</h5>
 
                     <h5><span style="color:#FFA500">Series ISSN:</span>&nbsp; 2190-3018</h5>
 
@@ -652,7 +652,7 @@
 
 
     <!-- Call to action -->
-    <section id="spring" class="fun-fact-section style-two" style="background-image: url(https://thessic.com/images/background/9.jpg);margin-bottom: 70px;">
+    <section id="spring" class="fun-fact-section style-two" style="background-image: url(https://thessic.com/images/background/9.jpg);">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title" style="color:#fff;">PROCEEDINGS of SSIC 2017, published by</span>
@@ -718,7 +718,7 @@
         <!--Google Map APi Key-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPH8h1UpcK01BdcvoZeOzq-_wJqRxN1Pc"></script>
         <script src="https://thessic.com/js/map-script.js"></script>
-        <!--End Google Map APi-->>
+        <!--End Google Map APi-->
         <!-- End Footer -->
 
 
