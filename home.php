@@ -137,7 +137,6 @@
 <!--                <div class="btn-box"><a href="buy-ticket.html" class="theme-btn btn-style-two"><span class="btn-title">Book Now</span></a></div>-->
             </div>
         </div>
-        
     </section>
 
     <div class="auto-container">
