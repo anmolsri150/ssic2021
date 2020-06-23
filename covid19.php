@@ -84,7 +84,6 @@
             
             <p> In the middle of this crisis, our aims to encourage researchers from industry as well as academia to discover the smart solutions and combat with COVID-19 pandemic through incorporating IoT-based solutions. </p>
     
-            <div class="error-title" style="font-size: 35px;margin-bottom: 30px; margin-top: 20px;">How to Apply</div>
         
             <p><strong>We invite authors to submit their latest work and share their understanding with in this challenging period.</strong></p>
     
