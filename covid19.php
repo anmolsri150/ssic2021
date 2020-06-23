@@ -53,7 +53,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(https://thessic.com/images/background/5.jpg);">
         <div class="auto-container">
-            <h1>Call for Workshops and Tutorials</h1>
+            <h1>COVID-19 Special Track</h1>
             <ul class="bread-crumb clearfix">
                 <li><a href="https://thessic.com/">Home</a></li>
                 <li>COVID-19</li>
