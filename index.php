@@ -67,7 +67,7 @@ switch ($request) {
         require __DIR__ . '/speakers.php';
         break;     
     case '/covid19' :
-        require __DIR__ . '/coming-soon.php';
+        require __DIR__ . '/covid19.php';
         break;  
     default:
         http_response_code(404);
