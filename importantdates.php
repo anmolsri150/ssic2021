@@ -115,7 +115,7 @@
                 </tr>
                 <tr>
                     <td style="color:black">Last Date of Paper submission</td>
-                    <td>31st July 2020</td>
+                    <td>30th August 2020</td>
                 </tr>
                 <tr>
                     <td style="color:black">Notification of acceptance of papers</td>

@@ -107,7 +107,7 @@
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>Faculty/Author from Academics</span></p>
                 </td>
                 <td style="border-top: none; border-left: none; border-bottom: 1pt solid rgb(221, 221, 221); border-right: 1pt solid rgb(221, 221, 221); background: rgb(242, 242, 242); padding: 3.75pt; width: 42.4242%;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>6000 INR</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>4000 INR</span></p>
                 </td>
             </tr>
             <tr>
@@ -115,7 +115,7 @@
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Delegates from Industry</span></p>
                 </td>
                 <td style="border-top: none; border-left: none; border-bottom: 1pt solid rgb(221, 221, 221); border-right: 1pt solid rgb(221, 221, 221); padding: 3.75pt; width: 42.4242%;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>6000 INR</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>4000 INR</span></p>
                 </td>
             </tr>
             <tr>
@@ -123,7 +123,7 @@
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>Students (PG/UG)</span></p>
                 </td>
                 <td style="border-top: none; border-left: none; border-bottom: 1pt solid rgb(221, 221, 221); border-right: 1pt solid rgb(221, 221, 221); background: rgb(242, 242, 242); padding: 3.75pt; width: 42.4242%;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>4000 INR</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;color:black;'>3000 INR</span></p>
                 </td>
             </tr>
             <tr>
@@ -147,7 +147,7 @@
                     <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Listener</span></p>
                 </td>
                 <td style="border-top: none; border-left: none; border-bottom: 1pt solid rgb(221, 221, 221); border-right: 1pt solid rgb(221, 221, 221); padding: 3.75pt; width: 42.4242%;">
-                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>2000 INR</span></p>
+                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>1500 INR</span></p>
                 </td>
             </tr>
         </tbody>

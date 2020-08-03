@@ -172,7 +172,7 @@
             </p>
             <p>
                 <strong>DEADLINE:</strong>
-                30th July, 2020
+                30th August, 2020
             </p>
             <p>
             For more details please visit the conference website (    <a href="https://thessic.com/">www.thessic.com</a> ) <strong></strong>

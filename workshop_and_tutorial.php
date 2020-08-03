@@ -192,7 +192,7 @@
     
             <div class="error-title" style="font-size: 27px;margin-bottom: 30px;">Important Dates for Proposal Submissions: </div>
     
-            <p><strong> DEADLINE:</strong> 30th July, 2020</p>
+            <p><strong> DEADLINE:</strong> 30th August, 2020</p>
     
             <p>For more details please visit the conference website (<a href="http://www.thessic.com" >www.thessic.com</a> ) </p>
     
