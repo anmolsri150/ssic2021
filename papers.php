@@ -163,6 +163,16 @@
                     </tr>
                 </tbody>
             </table>
+            <br><br>
+             <h3 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".1s" style="color: rgb(255, 165, 0); font-weight: bold; text-align: center;"><strong>Call for Papers on Special Sessions</strong></h3>
+             <hr /><p>Papers submitted to this Special Session are reviewed according to the same rules as the submissions to the regular sessions of SSIC 2021. Authors who submit papers to any session are requested to mention the session name in the header of their manuscript before submission. Submissions to Regular and Special Sessions follow identical format, instructions <a href="https://thessic.com/info/guidelines">(https://thessic.com/info/guidelines)</a>, deadlines <a href="https://thessic.com/info/dates">(https://thessic.com/info/dates)</a> and procedures of the other papers. </p>
+             <p>
+<strong>Special Session 1:</strong><br>
+​<strong>Title: Computational Linguistics and Applications</strong><br>
+<strong>Contact Person:</strong> Dr. Shweta Sinha, Dr. Vikas Thada<br>
+<strong>Email ID:</strong> ssnlp2021@gmail.com<br>
+<strong>Flyer for More Details:</strong> <a href="https://thessic.com/resources/one_page_flyer.pdf" target="_blank"><span class="btn-title">Click Here    </span><br>
+             </p>
             </div>
 
     <!-- Main Footer -->
@@ -187,5 +197,5 @@
             <!-- Color Setting -->
             <script src="https://thessic.com/js/color-settings.js"></script>
 </body>
-<!-- Copied from https://expert-themes.com/html/eventrox/speakers.html by Cyotek WebCopy 1.7.0.600, Thursday, September 19, 2019, 12:52:40 AM -->
+
 </html>
