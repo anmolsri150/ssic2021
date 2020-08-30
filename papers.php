@@ -94,6 +94,7 @@
             <div class="sec-title text-center">
                 <span class="title">Authors are invited to submit their original, unpublished and quality research papers in the areas including but not limited to the following topics:</span>
             </div>
+            <h3 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".1s" style="color: rgb(255, 165, 0); font-weight: bold; text-align: center;"><strong>Regular Call For Papers</strong></h3>
             <table align="center" border="1" cellpadding="1" cellspacing="1" height="689" width="997"  border-collapse= "collapse" >
                 <tbody valign="top">
                     <tr>
@@ -146,8 +147,8 @@
                         <h3 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".1s" style="color: rgb(255, 165, 0); font-weight: bold; text-align: center;"><strong>Track 3: Smart Technology Innovations &amp; Applications</strong></h3>
 
                         <hr width="30%" />
-                         <p style="text-align: center;">High Performance Computing 	</p>
-                         <p style="text-align: center;">Power Management in Embedded Systems	</p>
+                         <p style="text-align: center;">High Performance Computing  </p>
+                         <p style="text-align: center;">Power Management in Embedded Systems    </p>
                          <p style="text-align: center;">Real-Time Computing</p>
                          <p style="text-align: center;">Multi/Many-Core Embedded Systems</p>
                          <p style="text-align: center;">Emerging trends in embedded multimedia systems (gaming, streaming)</p>
@@ -167,7 +168,7 @@
              <h3 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".1s" style="color: rgb(255, 165, 0); font-weight: bold; text-align: center;"><strong>Call for Papers on Special Sessions</strong></h3>
              <hr /><p>Papers submitted to this Special Session are reviewed according to the same rules as the submissions to the regular sessions of SSIC 2021. Authors who submit papers to any session are requested to mention the session name in the header of their manuscript before submission. Submissions to Regular and Special Sessions follow identical format, instructions <a href="https://thessic.com/info/guidelines">(https://thessic.com/info/guidelines)</a>, deadlines <a href="https://thessic.com/info/dates">(https://thessic.com/info/dates)</a> and procedures of the other papers. </p>
              <p>
-<strong>Special Session 1:</strong><br>
+<div style="color: rgb(255, 165, 0); font-size: 1.5rem;"><strong>Special Session 1:</strong></div><br>
 ​<strong>Title: Computational Linguistics and Applications</strong><br>
 <strong>Contact Person:</strong> Dr. Shweta Sinha, Dr. Vikas Thada<br>
 <strong>Email ID:</strong> ssnlp2021@gmail.com<br>
