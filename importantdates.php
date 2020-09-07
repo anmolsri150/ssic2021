@@ -115,11 +115,11 @@
                 </tr>
                 <tr>
                     <td style="color:black">Last Date of Paper submission</td>
-                    <td>30th August 2020</td>
+                    <td>30th September 2020</td>
                 </tr>
                 <tr>
                     <td style="color:black">Notification of acceptance of papers</td>
-                    <td>30th September 2020</td>
+                    <td>20th October 2020</td>
                 </tr>
                 <tr>
                     <td style="color:black">Last Date of Camera-Ready Paper Submission</td>
